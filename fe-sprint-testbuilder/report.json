@@ -1,0 +1,452 @@
+{
+  "stats": {
+    "suites": 7,
+    "tests": 31,
+    "passes": 31,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-10-06T04:47:23.698Z",
+    "end": "2022-10-06T04:47:23.711Z",
+    "duration": 13
+  },
+  "tests": [
+    {
+      "title": "오류가 발생하면 테스트가 실패합니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 오류가 발생하면 테스트가 실패합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "오류가 발생하지 않으므로, 실패하지 않습니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 오류가 발생하지 않으므로, 실패하지 않습니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "예상 동작이 실제 동작과 일치하지 않을 때 오류가 발생합니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 예상 동작이 실제 동작과 일치하지 않을 때 오류가 발생합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 38 and a length of 14",
+      "fullTitle": "Bare Minimum Requirements Diner's Club has a prefix of 38 and a length of 14",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 39 and a length of 14",
+      "fullTitle": "Bare Minimum Requirements Diner's Club has a prefix of 39 and a length of 14",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 34 and a length of 15",
+      "fullTitle": "Bare Minimum Requirements American Express has a prefix of 34 and a length of 15",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 37 and a length of 15",
+      "fullTitle": "Bare Minimum Requirements American Express has a prefix of 37 and a length of 15",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 13",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 13",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 54 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements MasterCard has a prefix of 54 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 55 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements MasterCard has a prefix of 55 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 6011 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 6011 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 6011 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 6011 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 65 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 65 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 65 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 65 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 644 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 644 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 644 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 644 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 645 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 645 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 645 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 645 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 646 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 646 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 646 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 646 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 647 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 647 and a length of 16",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 647 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 647 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 648 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 648 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 648 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 648 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 649 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 649 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 649 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 649 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "오류가 발생하면 테스트가 실패합니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 오류가 발생하면 테스트가 실패합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "오류가 발생하지 않으므로, 실패하지 않습니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 오류가 발생하지 않으므로, 실패하지 않습니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "예상 동작이 실제 동작과 일치하지 않을 때 오류가 발생합니다.",
+      "fullTitle": "Bare Minimum Requirements Introduction to Mocha Tests - READ ME FIRST 예상 동작이 실제 동작과 일치하지 않을 때 오류가 발생합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 38 and a length of 14",
+      "fullTitle": "Bare Minimum Requirements Diner's Club has a prefix of 38 and a length of 14",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 39 and a length of 14",
+      "fullTitle": "Bare Minimum Requirements Diner's Club has a prefix of 39 and a length of 14",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 34 and a length of 15",
+      "fullTitle": "Bare Minimum Requirements American Express has a prefix of 34 and a length of 15",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 37 and a length of 15",
+      "fullTitle": "Bare Minimum Requirements American Express has a prefix of 37 and a length of 15",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 13",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 13",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 4 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Visa has a prefix of 4 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Fill this value in",
+      "fullTitle": "Bare Minimum Requirements MasterCard Fill this value in",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 54 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements MasterCard has a prefix of 54 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 55 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements MasterCard has a prefix of 55 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 6011 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 6011 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 6011 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 6011 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 65 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 65 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 65 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 65 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 644 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 644 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 644 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 644 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 645 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 645 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 645 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 645 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 646 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 646 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 646 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 646 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 647 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 647 and a length of 16",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 647 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 647 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 648 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 648 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 648 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 648 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 649 and a length of 16",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 649 and a length of 16",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a prefix of 649 and a length of 19",
+      "fullTitle": "Bare Minimum Requirements Discover has a prefix of 649 and a length of 19",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
